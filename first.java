@@ -3,3 +3,9 @@ public class first {
         System.out.println("hello world");
     }
 }
+
+//second.java
+// public class second {
+//    public static void main(string[])args)}
+//       system.out.println("hello world");
+//   }
