@@ -1,11 +1,10 @@
-public class first {
+// ouput differenetiation
+
+
+public class First {
     public static void main(String[] args) {
-        System.out.println("hello world");
+        System.out.print("hello world");
+        System.out.print("hwllo2");
+        System.out.println("hello3");
     }
 }
-
-//second.java
-// public class second {
-//    public static void main(string[])args)}
-//       system.out.println("hello world");
-//   }
