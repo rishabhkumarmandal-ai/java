@@ -8,5 +8,8 @@ public class UserInput2 {
         System.out.println("Enter youur age: ");
         int age = inputScanner.nextInt();
         System.out.println("Your age is:" + age);
+        System.out.println("Enter your height in cm:");
+        float height = inputScanner.nextInt();
+        System.out,System.err.println("Your height is:" + height + " cm");
     }
 }
