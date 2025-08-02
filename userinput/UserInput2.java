@@ -14,5 +14,27 @@ public class UserInput2 {
         System.out.println("Enter your weight in kg:");
         float weight = inputScanner.nextFloat();
         System.out.println("your weight is:" + weight + "kg");
+        System.out.println("Enter your ");
+
+        // BMI Calculation
+        float heightM = heightCm / 100; // convert cm to meters
+        float bmi = weight / (heightM * heightM);
+
+        // Display BMI
+        System.out.println("Your BMI is: " + bmi);
+
+        // Optional: Display BMI Category
+        if (bmi < 18.5) {
+            System.out.println("Category: Underweight");
+        } else if (bmi >= 18.5 && bmi < 24.9) {
+            System.out.println("Category: Normal weight");
+        } else if (bmi >= 25 && bmi < 29.9) {
+            System.out.println("Category: Overweight");
+        } else {
+            System.out.println("Category: Obese");
+        }
+
+        inputScanner.close(); // closing scanner
     }
 }
+
