@@ -17,7 +17,7 @@ public class UserInput2 {
         System.out.println("Enter your ");
 
         // BMI Calculation
-        float heightM = heightCm / 100; // convert cm to meters
+        float heightM = height / 100; // convert cm to meters
         float bmi = weight / (heightM * heightM);
 
         // Display BMI
