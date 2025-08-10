@@ -48,6 +48,21 @@ public class StudentDemo {
             System.out.println("Grade: C");
         }
 
+        System.out.println("\nSwitch Case Example:");
+        int day = 3; // example of the week
+        switch (day) {
+            case 1:
+                System.out.println(favSubject);
+                break;
+            case 2:
+                System.out.println(favSubject);
+                break;
+            default:
+                System.out.println("No subject for this day.");
+                break;
+        }
+
+
         // 5. LOOPS — For, While, Do-While
         System.out.println("\nFor Loop Example:");
         for (int i = 1; i <= 5; i++) {
