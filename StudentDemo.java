@@ -7,7 +7,7 @@ public class StudentDemo {
     public static void main(String[] args) {
         
         // 1. VARIABLES & DATA TYPES
-        int rollNumber = 101;         // Integer type variable
+        long rollNumber = 220120101133L;         // Long type variable
         String name = "Rishabh";         // String type variable
         double marks = 87.5;          // Decimal number
         boolean isPass = true;        // Boolean type (true/false)
