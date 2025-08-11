@@ -1,3 +1,4 @@
+package Challenges;
 // cahllenge for  left increaing star pattern
 
 public class Challenges {
