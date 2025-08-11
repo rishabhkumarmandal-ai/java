@@ -8,7 +8,7 @@ public class StudentDemo {
         
         // 1. VARIABLES & DATA TYPES
         int rollNumber = 101;         // Integer type variable
-        String name = "Aman";         // String type variable
+        String name = "Rishabh";         // String type variable
         double marks = 87.5;          // Decimal number
         boolean isPass = true;        // Boolean type (true/false)
 
