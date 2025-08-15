@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Challenge2",
+            "request": "launch",
+            "mainClass": "Challenges.Challenge2",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "Challenge3",
+            "request": "launch",
+            "mainClass": "Challenges.Challenge3",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "Challenges",
+            "request": "launch",
+            "mainClass": "Challenges.Challenges",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "Firstprogramme",
+            "request": "launch",
+            "mainClass": "Firstprogramme",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "assignment",
+            "request": "launch",
+            "mainClass": "Operators.assignment",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "Secondtask",
+            "request": "launch",
+            "mainClass": "Secondtask",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "StudentDemo",
+            "request": "launch",
+            "mainClass": "StudentDemo",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "Thirdtask",
+            "request": "launch",
+            "mainClass": "Thirdtask",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "typeconversion",
+            "request": "launch",
+            "mainClass": "Typeconversion.typeconversion",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "Escape",
+            "request": "launch",
+            "mainClass": "Variables.Escape",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables.Variables",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "firsttask",
+            "request": "launch",
+            "mainClass": "firsttask",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "UserInput",
+            "request": "launch",
+            "mainClass": "userinput.UserInput",
+            "projectName": "java_df59cac7"
+        },
+        {
+            "type": "java",
+            "name": "UserInput2",
+            "request": "launch",
+            "mainClass": "userinput.UserInput2",
+            "projectName": "java_df59cac7"
+        }
+    ]
+}
